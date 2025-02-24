@@ -12,7 +12,7 @@ function Header() {
               <div class="main-bar site-bg-primary">
                 <div class="container">
                   <div class="logo-header mostion">
-                    <a href="index.html">
+                    <a href="/">
                       <img src={logo} width="171" height="49" alt="" />
                     </a>
                   </div>
